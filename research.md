@@ -33,6 +33,6 @@ instantaneously during a patient scan. Some <a href="{{ site.url }}/software">so
 </p>
 
 
-<p>The group is participating in EU projects 
+<p>The group is participating in the EU projects 
 <a href="http://www.iacobus-fp7.eu/">IACOBUS</a> and <a href="http://www.semeoticons.eu/">SEMEOTICONS</a>.
 </p>
