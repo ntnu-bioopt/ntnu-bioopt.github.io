@@ -1,0 +1,122 @@
+[
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "github": null
+  }
+]

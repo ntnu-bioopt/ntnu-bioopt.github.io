@@ -1,0 +1,39 @@
+
+/* publication item describing title, authors... */
+.list-item {
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+    min-height: 120px;
+    min-width: 325px;
+    list-style: none;
+    /*padding-left: 110px;*/
+	
+
+
+    	/* title of publication */
+	.list-title{
+		font-size: 15pt;
+	}
+
+	/* details (journal, volume, year...) */
+	.list-details{
+	}
+
+	.list-subnavigation{
+		ul{
+			margin: 0;
+			list-style: none;
+			li{
+				display: inline;
+			}
+		}
+	}
+    
+	img {
+	    margin-right: 10px;
+	    width: 100px;
+	    float: left;
+	}
+}

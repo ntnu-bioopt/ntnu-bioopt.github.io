@@ -1,0 +1,62 @@
+[
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": null
+  }
+]

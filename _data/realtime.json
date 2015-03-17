@@ -1,0 +1,795 @@
+[
+  {
+    "fellesdata": {
+      "id": "1216144",
+      "eier": {
+        "kode": "NTNU",
+        "navn": "Norges teknisk-naturvitenskapelige universitet",
+        "navnEngelsk": "Norwegian University of Science and Technology",
+        "akronym": "NTNU",
+        "datoNSDRapport": "2014-04-02"
+      },
+      "registrert": {
+        "dato": "2015-02-03T11:47:16Z",
+        "person": {
+          "id": "32388",
+          "etternavn": "Bjørgan",
+          "fornavn": "Asgeir"
+        },
+        "institusjon": {
+          "institusjonsnr": "194",
+          "navn": "Norges teknisk-naturvitenskapelige universitet",
+          "navnEngelsk": "Norwegian University of Science and Technology",
+          "akronym": "NTNU",
+          "land": {
+            "kode": "NO",
+            "navn": "Norge",
+            "navnEngelsk": "Norway"
+          }
+        }
+      },
+      "endret": {
+        "dato": "2015-02-03T19:18:25Z",
+        "person": {
+          "id": "32388",
+          "etternavn": "Bjørgan",
+          "fornavn": "Asgeir"
+        },
+        "institusjon": {
+          "institusjonsnr": "194",
+          "navn": "Norges teknisk-naturvitenskapelige universitet",
+          "navnEngelsk": "Norwegian University of Science and Technology",
+          "akronym": "NTNU",
+          "land": {
+            "kode": "NO",
+            "navn": "Norge",
+            "navnEngelsk": "Norway"
+          }
+        }
+      },
+      "etikk": {
+        "dato": "2015-02-03T11:44:28Z",
+        "person": {
+          "id": "32388",
+          "etternavn": "Bjørgan",
+          "fornavn": "Asgeir"
+        },
+        "harFulgtMedforfatterregler": []
+      },
+      "kategori": {
+        "hovedkategori": {
+          "kode": "TIDSSKRIFTPUBL",
+          "navn": "Tidsskriftspublikasjon",
+          "navnEngelsk": "Journal publication"
+        },
+        "underkategori": {
+          "kode": "ARTIKKEL",
+          "navn": "Vitenskapelig artikkel",
+          "navnEngelsk": "Academic article"
+        }
+      },
+      "person": [
+        {
+          "id": "32388",
+          "harFodselsnummer": "true",
+          "rekkefolgenr": "1",
+          "etternavn": "Bjorgan",
+          "fornavn": "Asgeir",
+          "tilhorighet": {
+            "sted": {
+              "institusjonsnr": "194",
+              "avdnr": "63",
+              "undavdnr": "35",
+              "gruppenr": "0",
+              "navn": "Institutt for elektronikk og telekommunikasjon",
+              "navnEngelsk": "Department of Electronics and Telecommunications",
+              "institusjon": {
+                "institusjonsnr": "194",
+                "navn": "Norges teknisk-naturvitenskapelige universitet",
+                "navnEngelsk": "Norwegian University of Science and Technology",
+                "akronym": "NTNU",
+                "land": {
+                  "kode": "NO",
+                  "navn": "Norge",
+                  "navnEngelsk": "Norway"
+                },
+                "sektor": {
+                  "kode": "UH",
+                  "navn": "Universitet og Høgskoler",
+                  "navnEngelsk": "Universities and colleges"
+                }
+              },
+              "sti": "Norges teknisk-naturvitenskapelige universitet|Fakultet for informasjonsteknologi, matematikk og elektroteknikk|Institutt for elektronikk og telekommunikasjon",
+              "stiEngelsk": "Norwegian University of Science and Technology|Faculty of Information Technology, Mathematics and Electrical Engineering|Department of Electronics and Telecommunications|",
+              "rolle": {
+                "kode": "FORFATTER",
+                "navn": "Forfatter",
+                "navnEngelsk": "Author"
+              }
+            }
+          }
+        },
+        {
+          "id": "44008",
+          "harFodselsnummer": "true",
+          "rekkefolgenr": "2",
+          "etternavn": "Randeberg",
+          "fornavn": "Lise Lyngsnes",
+          "tilhorighet": {
+            "sted": {
+              "institusjonsnr": "194",
+              "avdnr": "63",
+              "undavdnr": "35",
+              "gruppenr": "0",
+              "navn": "Institutt for elektronikk og telekommunikasjon",
+              "navnEngelsk": "Department of Electronics and Telecommunications",
+              "institusjon": {
+                "institusjonsnr": "194",
+                "navn": "Norges teknisk-naturvitenskapelige universitet",
+                "navnEngelsk": "Norwegian University of Science and Technology",
+                "akronym": "NTNU",
+                "land": {
+                  "kode": "NO",
+                  "navn": "Norge",
+                  "navnEngelsk": "Norway"
+                },
+                "sektor": {
+                  "kode": "UH",
+                  "navn": "Universitet og Høgskoler",
+                  "navnEngelsk": "Universities and colleges"
+                }
+              },
+              "sti": "Norges teknisk-naturvitenskapelige universitet|Fakultet for informasjonsteknologi, matematikk og elektroteknikk|Institutt for elektronikk og telekommunikasjon",
+              "stiEngelsk": "Norwegian University of Science and Technology|Faculty of Information Technology, Mathematics and Electrical Engineering|Department of Electronics and Telecommunications|",
+              "rolle": {
+                "kode": "FORFATTER",
+                "navn": "Forfatter",
+                "navnEngelsk": "Author"
+              }
+            }
+          }
+        }
+      ],
+      "sprak": {
+        "kode": "EN",
+        "navn": "Engelsk",
+        "navnEngelsk": "English"
+      },
+      "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+      "ar": "2015",
+      "arRapportert": "2015",
+      "sammendrag": {
+        "sprak": {
+          "kode": "EN",
+          "navn": "Engelsk",
+          "navnEngelsk": "English"
+        },
+        "tekst": "Processing line-by-line and in real-time can be convenient for some applications of line-scanning hyperspectral imaging technology. Some types of processing, like inverse modeling and spectral analysis, can be sensitive to noise. The MNF (minimum noise fraction) transform provides suitable denoising performance, but requires full image availability for the estimation of image and noise statistics. In this work, a modified algorithm is proposed. Incrementally-updated statistics enables the algorithm to denoise the image line-by-line. The denoising performance has been compared to conventional MNF and found to be equal. With a satisfying denoising performance and real-time implementation, the developed algorithm can denoise line-scanned hyperspectral images in real-time. The elimination of waiting time before denoised data are available is an important step towards real-time visualization of processed hyperspectral data. The source code can be found at http://www.github.com/ntnu-bioopt/mnf. This includes an implementation of conventional MNF denoising."
+      },
+      "ressurs": {
+        "type": {
+          "kode": "FULLTEKST",
+          "navn": "Fulltekst",
+          "navnEngelsk": "Full-text"
+        },
+        "url": "http://www.mdpi.com/1424-8220/15/2/3362"
+      },
+      "eksternprosjekt": {
+        "id": "305760",
+        "finansieringskilde": {
+          "kode": "EU",
+          "navn": "EU",
+          "navnEngelsk": "EU",
+          "navnNynorsk": []
+        }
+      },
+      "erPublisert": "true",
+      "rapportdata": {
+        "ar": "2015",
+        "publikasjonsform": {
+          "kode": "3",
+          "navn": "Artikkel i periodika og serier",
+          "navnEngelsk": "Article in Periodical and series"
+        },
+        "publikasjonskanal": {
+          "serie": {
+            "idItar": "2462",
+            "navn": "Sensors",
+            "issn": "1424-8220",
+            "kvalitetsniva": {
+              "kode": "1",
+              "navn": "Kvalitetsnivå 1",
+              "navnEngelsk": "Quality level 1"
+            }
+          }
+        }
+      },
+      "fulltekst": {
+        "nr": "1",
+        "type": "original",
+        "navn": "sensors-15-03362.pdf",
+        "antallBytes": "2839320",
+        "dato": "2015-02-03",
+        "md5": "b96ec95bcb1ffef96d7a928c0c5f8864",
+        "personreferanse": "Asgeir Bjørgan, NTNU",
+        "sjekkpunkt": {
+          "kode": "NTNU1",
+          "navn": "Jeg har mine medforfatteres samtykke til arkivering av fulltekst.",
+          "navnEngelsk": "I have my co-authors consent to submit a full-text document."
+        }
+      }
+    },
+    "kategoridata": {
+      "tidsskriftsartikkel": {
+        "tidsskrift": {
+          "@romeoColour": "green",
+          "@oaDoaj": "true",
+          "id": "28515",
+          "navn": "Sensors",
+          "issn": "1424-8220",
+          "utgivernavn": "Molecular Diversity Preservation International",
+          "utbredelse": {
+            "kode": "NASJONALT",
+            "navn": "Nasjonalt (ikke norsk)",
+            "navnEngelsk": "National (not Norwegian)"
+          },
+          "url": "http://www.mdpi.com/journal/sensors",
+          "kvalitetsniva": {
+            "kode": "1",
+            "navn": "Kvalitetsnivå 1",
+            "navnEngelsk": "Quality level 1"
+          }
+        },
+        "arstallOnline": "2015",
+        "arstallTrykket": "2015",
+        "volum": "15",
+        "hefte": "2",
+        "sideangivelse": {
+          "sideFra": "3362",
+          "sideTil": "3378"
+        },
+        "doi": "10.3390/s150203362"
+      }
+    }
+  },
+  {
+    "fellesdata": {
+      "id": "1136599",
+      "eier": {
+        "kode": "NTNU",
+        "navn": "Norges teknisk-naturvitenskapelige universitet",
+        "navnEngelsk": "Norwegian University of Science and Technology",
+        "akronym": "NTNU",
+        "datoNSDRapport": "2014-04-02"
+      },
+      "registrert": {
+        "dato": "2014-06-05T10:02:55Z",
+        "person": {
+          "id": "32388",
+          "etternavn": "Bjørgan",
+          "fornavn": "Asgeir"
+        },
+        "institusjon": {
+          "institusjonsnr": "194",
+          "navn": "Norges teknisk-naturvitenskapelige universitet",
+          "navnEngelsk": "Norwegian University of Science and Technology",
+          "akronym": "NTNU",
+          "land": {
+            "kode": "NO",
+            "navn": "Norge",
+            "navnEngelsk": "Norway"
+          }
+        }
+      },
+      "endret": {
+        "dato": "2014-10-29T10:08:34Z",
+        "person": {
+          "id": "32635",
+          "etternavn": "Eriksen",
+          "fornavn": "Randi Tyse"
+        },
+        "institusjon": {
+          "institusjonsnr": "194",
+          "navn": "Norges teknisk-naturvitenskapelige universitet",
+          "navnEngelsk": "Norwegian University of Science and Technology",
+          "akronym": "NTNU",
+          "land": {
+            "kode": "NO",
+            "navn": "Norge",
+            "navnEngelsk": "Norway"
+          }
+        }
+      },
+      "etikk": {
+        "dato": "2014-06-05T09:42:32Z",
+        "person": {
+          "id": "32388",
+          "etternavn": "Bjørgan",
+          "fornavn": "Asgeir"
+        },
+        "harFulgtMedforfatterregler": []
+      },
+      "kategori": {
+        "hovedkategori": {
+          "kode": "TIDSSKRIFTPUBL",
+          "navn": "Tidsskriftspublikasjon",
+          "navnEngelsk": "Journal publication"
+        },
+        "underkategori": {
+          "kode": "ARTIKKEL",
+          "navn": "Vitenskapelig artikkel",
+          "navnEngelsk": "Academic article"
+        }
+      },
+      "person": [
+        {
+          "id": "32388",
+          "harFodselsnummer": "true",
+          "rekkefolgenr": "1",
+          "etternavn": "Bjorgan",
+          "fornavn": "Asgeir",
+          "tilhorighet": {
+            "sted": {
+              "institusjonsnr": "194",
+              "avdnr": "63",
+              "undavdnr": "35",
+              "gruppenr": "0",
+              "navn": "Institutt for elektronikk og telekommunikasjon",
+              "navnEngelsk": "Department of Electronics and Telecommunications",
+              "institusjon": {
+                "institusjonsnr": "194",
+                "navn": "Norges teknisk-naturvitenskapelige universitet",
+                "navnEngelsk": "Norwegian University of Science and Technology",
+                "akronym": "NTNU",
+                "land": {
+                  "kode": "NO",
+                  "navn": "Norge",
+                  "navnEngelsk": "Norway"
+                },
+                "sektor": {
+                  "kode": "UH",
+                  "navn": "Universitet og Høgskoler",
+                  "navnEngelsk": "Universities and colleges"
+                }
+              },
+              "sti": "Norges teknisk-naturvitenskapelige universitet|Fakultet for informasjonsteknologi, matematikk og elektroteknikk|Institutt for elektronikk og telekommunikasjon",
+              "stiEngelsk": "Norwegian University of Science and Technology|Faculty of Information Technology, Mathematics and Electrical Engineering|Department of Electronics and Telecommunications|",
+              "rolle": {
+                "kode": "FORFATTER",
+                "navn": "Forfatter",
+                "navnEngelsk": "Author"
+              }
+            }
+          }
+        },
+        {
+          "id": "540535",
+          "harFodselsnummer": "true",
+          "rekkefolgenr": "2",
+          "etternavn": "Milanic",
+          "fornavn": "Matija",
+          "tilhorighet": {
+            "sted": {
+              "institusjonsnr": "194",
+              "avdnr": "63",
+              "undavdnr": "35",
+              "gruppenr": "0",
+              "navn": "Institutt for elektronikk og telekommunikasjon",
+              "navnEngelsk": "Department of Electronics and Telecommunications",
+              "institusjon": {
+                "institusjonsnr": "194",
+                "navn": "Norges teknisk-naturvitenskapelige universitet",
+                "navnEngelsk": "Norwegian University of Science and Technology",
+                "akronym": "NTNU",
+                "land": {
+                  "kode": "NO",
+                  "navn": "Norge",
+                  "navnEngelsk": "Norway"
+                },
+                "sektor": {
+                  "kode": "UH",
+                  "navn": "Universitet og Høgskoler",
+                  "navnEngelsk": "Universities and colleges"
+                }
+              },
+              "sti": "Norges teknisk-naturvitenskapelige universitet|Fakultet for informasjonsteknologi, matematikk og elektroteknikk|Institutt for elektronikk og telekommunikasjon",
+              "stiEngelsk": "Norwegian University of Science and Technology|Faculty of Information Technology, Mathematics and Electrical Engineering|Department of Electronics and Telecommunications|",
+              "rolle": {
+                "kode": "FORFATTER",
+                "navn": "Forfatter",
+                "navnEngelsk": "Author"
+              }
+            }
+          }
+        },
+        {
+          "id": "44008",
+          "harFodselsnummer": "true",
+          "rekkefolgenr": "3",
+          "etternavn": "Randeberg",
+          "fornavn": "Lise Lyngsnes",
+          "tilhorighet": {
+            "sted": {
+              "institusjonsnr": "194",
+              "avdnr": "63",
+              "undavdnr": "35",
+              "gruppenr": "0",
+              "navn": "Institutt for elektronikk og telekommunikasjon",
+              "navnEngelsk": "Department of Electronics and Telecommunications",
+              "institusjon": {
+                "institusjonsnr": "194",
+                "navn": "Norges teknisk-naturvitenskapelige universitet",
+                "navnEngelsk": "Norwegian University of Science and Technology",
+                "akronym": "NTNU",
+                "land": {
+                  "kode": "NO",
+                  "navn": "Norge",
+                  "navnEngelsk": "Norway"
+                },
+                "sektor": {
+                  "kode": "UH",
+                  "navn": "Universitet og Høgskoler",
+                  "navnEngelsk": "Universities and colleges"
+                }
+              },
+              "sti": "Norges teknisk-naturvitenskapelige universitet|Fakultet for informasjonsteknologi, matematikk og elektroteknikk|Institutt for elektronikk og telekommunikasjon",
+              "stiEngelsk": "Norwegian University of Science and Technology|Faculty of Information Technology, Mathematics and Electrical Engineering|Department of Electronics and Telecommunications|",
+              "rolle": {
+                "kode": "FORFATTER",
+                "navn": "Forfatter",
+                "navnEngelsk": "Author"
+              }
+            }
+          }
+        }
+      ],
+      "sprak": {
+        "kode": "EN",
+        "navn": "Engelsk",
+        "navnEngelsk": "English"
+      },
+      "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+      "ar": "2014",
+      "arRapportert": "2014",
+      "sammendrag": {
+        "sprak": {
+          "kode": "EN",
+          "navn": "Engelsk",
+          "navnEngelsk": "English"
+        },
+        "tekst": "Hyperspectral imaging combines high spectral and spatial resolution in one modality. This imaging technique is a promising tool for objective medical diagnostics. However, to be attractive in a clinical setting, the technique needs to be fast and accurate. Hyperspectral imaging can be used to analyze tissue properties using spectroscopic methods, and is thus useful as a general purpose diagnostic tool. We combine an analytic diffusion model for photon transport with real-time analysis of the hyperspectral images. This is achieved by parallelizing the inverse photon transport model on a graphics processing unit to yield optical parameters from diffuse reflectance spectra. The validity of this approach was verified by Monte Carlo simulations. Hyperspectral images of human skin in the wavelength range 400–1000 nm, with a spectral resolution of 3.6 nm and 1600 pixels across the field of view (Hyspex VNIR-1600), were used to develop the presented approach. The implemented algorithm was found to output optical properties at a speed of 3.5 ms per line of image data. The presented method is thus capable of meeting the defined real-time requirement, which was 30 ms per line of data.The algorithm is a proof of principle, which will be further developed."
+      },
+      "ressurs": {
+        "type": {
+          "kode": "FULLTEKST",
+          "navn": "Fulltekst",
+          "navnEngelsk": "Full-text"
+        },
+        "url": "http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1879833"
+      },
+      "erPublisert": "true",
+      "kontrollert": {
+        "dato": "2015-02-03T13:21:40Z",
+        "person": {
+          "id": "7688",
+          "etternavn": "Lundberg",
+          "fornavn": "Nina",
+          "institusjon": {
+            "institusjonsnr": "194",
+            "navn": "Norges teknisk-naturvitenskapelige universitet",
+            "navnEngelsk": "Norwegian University of Science and Technology",
+            "akronym": "NTNU",
+            "land": {
+              "kode": "NO",
+              "navn": "Norge",
+              "navnEngelsk": "Norway"
+            }
+          }
+        },
+        "godkjent": "J"
+      },
+      "rapportdata": {
+        "@erRapportert": "true",
+        "ar": "2014",
+        "publikasjonsform": {
+          "kode": "3",
+          "navn": "Artikkel i periodika og serier",
+          "navnEngelsk": "Article in Periodical and series"
+        },
+        "publikasjonskanal": {
+          "serie": {
+            "idItar": "9825",
+            "navn": "Journal of Biomedical Optics",
+            "issn": "1083-3668",
+            "kvalitetsniva": {
+              "kode": "2",
+              "navn": "Kvalitetsnivå 2",
+              "navnEngelsk": "Quality level 2"
+            }
+          }
+        }
+      },
+      "importertFra": {
+        "kilde": {
+          "kode": "SCOPUS",
+          "navn": "Scopus"
+        },
+        "kildeId": "2-s2.0-84902095783"
+      },
+      "idItar": "279819"
+    },
+    "kategoridata": {
+      "tidsskriftsartikkel": {
+        "tidsskrift": {
+          "@romeoColour": "blue",
+          "id": "5052",
+          "navn": "Journal of Biomedical Optics",
+          "issn": "1083-3668",
+          "utbredelse": {
+            "kode": "NASJONALT",
+            "navn": "Nasjonalt (ikke norsk)",
+            "navnEngelsk": "National (not Norwegian)"
+          },
+          "kvalitetsniva": {
+            "kode": "2",
+            "navn": "Kvalitetsnivå 2",
+            "navnEngelsk": "Quality level 2"
+          }
+        },
+        "arstallOnline": "2014",
+        "arstallTrykket": "2014",
+        "volum": "19",
+        "hefte": "6",
+        "sideangivelse": {
+          "antallSider": "11"
+        },
+        "doi": "10.1117/1.JBO.19.6.066003"
+      }
+    }
+  },
+  {
+    "fellesdata": {
+      "id": "1136604",
+      "eier": {
+        "kode": "NTNU",
+        "navn": "Norges teknisk-naturvitenskapelige universitet",
+        "navnEngelsk": "Norwegian University of Science and Technology",
+        "akronym": "NTNU",
+        "datoNSDRapport": "2014-04-02"
+      },
+      "registrert": {
+        "dato": "2014-06-05T10:13:49Z",
+        "person": {
+          "id": "32388",
+          "etternavn": "Bjørgan",
+          "fornavn": "Asgeir"
+        },
+        "institusjon": {
+          "institusjonsnr": "194",
+          "navn": "Norges teknisk-naturvitenskapelige universitet",
+          "navnEngelsk": "Norwegian University of Science and Technology",
+          "akronym": "NTNU",
+          "land": {
+            "kode": "NO",
+            "navn": "Norge",
+            "navnEngelsk": "Norway"
+          }
+        }
+      },
+      "endret": {
+        "dato": "2014-06-11T12:52:14Z",
+        "person": {
+          "id": "32388",
+          "etternavn": "Bjørgan",
+          "fornavn": "Asgeir"
+        },
+        "institusjon": {
+          "institusjonsnr": "194",
+          "navn": "Norges teknisk-naturvitenskapelige universitet",
+          "navnEngelsk": "Norwegian University of Science and Technology",
+          "akronym": "NTNU",
+          "land": {
+            "kode": "NO",
+            "navn": "Norge",
+            "navnEngelsk": "Norway"
+          }
+        }
+      },
+      "etikk": {
+        "dato": "2014-06-05T10:09:36Z",
+        "person": {
+          "id": "32388",
+          "etternavn": "Bjørgan",
+          "fornavn": "Asgeir"
+        },
+        "harFulgtMedforfatterregler": []
+      },
+      "kategori": {
+        "hovedkategori": {
+          "kode": "TIDSSKRIFTPUBL",
+          "navn": "Tidsskriftspublikasjon",
+          "navnEngelsk": "Journal publication"
+        },
+        "underkategori": {
+          "kode": "ARTIKKEL",
+          "navn": "Vitenskapelig artikkel",
+          "navnEngelsk": "Academic article"
+        }
+      },
+      "person": [
+        {
+          "id": "32388",
+          "harFodselsnummer": "true",
+          "rekkefolgenr": "1",
+          "etternavn": "Bjorgan",
+          "fornavn": "Asgeir",
+          "tilhorighet": {
+            "sted": {
+              "institusjonsnr": "194",
+              "avdnr": "63",
+              "undavdnr": "35",
+              "gruppenr": "0",
+              "navn": "Institutt for elektronikk og telekommunikasjon",
+              "navnEngelsk": "Department of Electronics and Telecommunications",
+              "institusjon": {
+                "institusjonsnr": "194",
+                "navn": "Norges teknisk-naturvitenskapelige universitet",
+                "navnEngelsk": "Norwegian University of Science and Technology",
+                "akronym": "NTNU",
+                "land": {
+                  "kode": "NO",
+                  "navn": "Norge",
+                  "navnEngelsk": "Norway"
+                },
+                "sektor": {
+                  "kode": "UH",
+                  "navn": "Universitet og Høgskoler",
+                  "navnEngelsk": "Universities and colleges"
+                }
+              },
+              "sti": "Norges teknisk-naturvitenskapelige universitet|Fakultet for informasjonsteknologi, matematikk og elektroteknikk|Institutt for elektronikk og telekommunikasjon",
+              "stiEngelsk": "Norwegian University of Science and Technology|Faculty of Information Technology, Mathematics and Electrical Engineering|Department of Electronics and Telecommunications|",
+              "rolle": {
+                "kode": "FORFATTER",
+                "navn": "Forfatter",
+                "navnEngelsk": "Author"
+              }
+            }
+          }
+        },
+        {
+          "id": "44008",
+          "harFodselsnummer": "true",
+          "rekkefolgenr": "2",
+          "etternavn": "Randeberg",
+          "fornavn": "Lise Lyngsnes",
+          "tilhorighet": {
+            "sted": {
+              "institusjonsnr": "194",
+              "avdnr": "63",
+              "undavdnr": "35",
+              "gruppenr": "0",
+              "navn": "Institutt for elektronikk og telekommunikasjon",
+              "navnEngelsk": "Department of Electronics and Telecommunications",
+              "institusjon": {
+                "institusjonsnr": "194",
+                "navn": "Norges teknisk-naturvitenskapelige universitet",
+                "navnEngelsk": "Norwegian University of Science and Technology",
+                "akronym": "NTNU",
+                "land": {
+                  "kode": "NO",
+                  "navn": "Norge",
+                  "navnEngelsk": "Norway"
+                },
+                "sektor": {
+                  "kode": "UH",
+                  "navn": "Universitet og Høgskoler",
+                  "navnEngelsk": "Universities and colleges"
+                }
+              },
+              "sti": "Norges teknisk-naturvitenskapelige universitet|Fakultet for informasjonsteknologi, matematikk og elektroteknikk|Institutt for elektronikk og telekommunikasjon",
+              "stiEngelsk": "Norwegian University of Science and Technology|Faculty of Information Technology, Mathematics and Electrical Engineering|Department of Electronics and Telecommunications|",
+              "rolle": {
+                "kode": "FORFATTER",
+                "navn": "Forfatter",
+                "navnEngelsk": "Author"
+              }
+            }
+          }
+        }
+      ],
+      "sprak": {
+        "kode": "EN",
+        "navn": "Engelsk",
+        "navnEngelsk": "English"
+      },
+      "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+      "ar": "2014",
+      "arRapportert": "2014",
+      "sammendrag": {
+        "sprak": {
+          "kode": "EN",
+          "navn": "Engelsk",
+          "navnEngelsk": "English"
+        },
+        "tekst": "Hyperspectral imaging combines high spectral and spatial resolution in one modality. This imaging technique is a promising tool for objective medical diagnostics. However, to be attractive in a clinical setting the technique needs to be fast and accurate. Hyperspectral imaging can be used to analyze the chemical composition of tissue using spectroscopic methods, and is thus useful as a general purpose diagnostic tool. In this study, we combine an analytic diffusion model for photon transport with real-time analysis of hyperspectral images. This is achieved by inverting and parallelizing the photon transport model on a GPU to yield optical parameters from diffuse reflectance spectra. The resulting inversion chain was found to output the results in real-time. The inverse approach was found to characterize the relative differences in the optical properties. The presented approach is a proof of principle, necessary for developing a future real-time diagnostic system using hyperspectral imaging."
+      },
+      "ressurs": {
+        "type": {
+          "kode": "SAMMENDRAG",
+          "navn": "Sammendrag",
+          "navnEngelsk": "Abstract"
+        },
+        "url": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1840599"
+      },
+      "erPublisert": "true",
+      "kontrollert": {
+        "dato": "2015-02-03T13:24:51Z",
+        "person": {
+          "id": "7688",
+          "etternavn": "Lundberg",
+          "fornavn": "Nina",
+          "institusjon": {
+            "institusjonsnr": "194",
+            "navn": "Norges teknisk-naturvitenskapelige universitet",
+            "navnEngelsk": "Norwegian University of Science and Technology",
+            "akronym": "NTNU",
+            "land": {
+              "kode": "NO",
+              "navn": "Norge",
+              "navnEngelsk": "Norway"
+            }
+          }
+        },
+        "godkjent": "J"
+      },
+      "rapportdata": {
+        "@erRapportert": "true",
+        "ar": "2014",
+        "publikasjonsform": {
+          "kode": "3",
+          "navn": "Artikkel i periodika og serier",
+          "navnEngelsk": "Article in Periodical and series"
+        },
+        "publikasjonskanal": {
+          "serie": {
+            "idItar": "1006372",
+            "navn": "Proceedings of SPIE, the International Society for Optical Engineering",
+            "issn": "0277-786X",
+            "kvalitetsniva": {
+              "kode": "1",
+              "navn": "Kvalitetsnivå 1",
+              "navnEngelsk": "Quality level 1"
+            }
+          }
+        }
+      }
+    },
+    "kategoridata": {
+      "tidsskriftsartikkel": {
+        "tidsskrift": {
+          "@romeoColour": "blue",
+          "id": "55152",
+          "navn": "Proceedings of SPIE, the International Society for Optical Engineering",
+          "issn": "0277-786X",
+          "utgivernavn": "SPIE - International Society for Optical Engineering",
+          "utbredelse": {
+            "kode": "INTERNASJ",
+            "navn": "Internasjonalt",
+            "navnEngelsk": "International"
+          },
+          "url": "http://spie.org/x1848.xml?WT.svl=mddp2",
+          "kvalitetsniva": {
+            "kode": "1",
+            "navn": "Kvalitetsnivå 1",
+            "navnEngelsk": "Quality level 1"
+          }
+        },
+        "arstallOnline": "2014",
+        "arstallTrykket": "2014",
+        "volum": "8926",
+        "doi": "doi:10.1117/12.2037827"
+      }
+    }
+  }
+]

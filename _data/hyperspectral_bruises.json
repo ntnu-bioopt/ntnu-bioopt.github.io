@@ -1,0 +1,110 @@
+[
+  {
+    "tittel": "Hyperspectral Imaging of Bruises in the SWIR Spectral Region",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909137",
+    "volum": "8207",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Characterization of vascular structures and skin bruises using hyperspectral imaging, image analysis and diffusion theory",
+    "ar": "2010",
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.200910059",
+    "volum": "3",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Skin changes following minor trauma",
+    "ar": "2007",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": "10.1002/lsm.20494",
+    "volum": "39",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Winnem",
+        "fornavn": "Andreas Meyer"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Haaverstad",
+        "fornavn": "Rune"
+      },
+      {
+        "etternavn": "Skallerud",
+        "fornavn": "Bjørn Helge"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "A novel approach to age determination of traumatic injuries by reflectance spectroscopy",
+    "ar": "2006",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": "38",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Haaverstad",
+        "fornavn": "Rune"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "github": null
+  }
+]

@@ -1,0 +1,45 @@
+/**
+ * Styling for software displaying
+ */
+
+
+/**
+ * Site header
+ */
+.software-list-element {
+    overflow: hidden;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+
+    img {
+	    margin-right: 10px;
+	    width: 100px;
+	    height: 100px;
+	    float: left;
+    }
+    ul, li{
+	    margin: 0;
+	    padding: 0;
+	    list-style-type: none;
+    }
+
+    h2{
+	    margin: 0;
+	    padding: 0;
+	    font-size: 15pt;
+    }
+
+}
+
+
+
+.code-release li{
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+

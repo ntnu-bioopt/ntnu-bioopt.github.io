@@ -1,0 +1,24 @@
+  - repository: mnf
+    title: "libmnf: Hyperspectral denoising"
+    doi: http://dx.doi.org/10.3390/s150203362
+    license: MIT
+    img: mnf_ill.png
+    description: Denoising of hyperspectral images using the Minimum Noise Fraction transform or a line-by-line modification. 
+
+  - repository: gpudm
+    title: "gpudm: Hyperspectral inverse modeling"
+    doi: http://dx.doi.org/10.1117/1.JBO.19.6.066003
+    license: MIT
+    img: gpudm_ill.png
+    description: Photon transport-based tissue property extraction from hyperspectral images. 
+
+  - repository: hyview
+    title: "hyview: Hyperspectral image viewer"
+    license: MIT
+    description: Simple GUI for scrolling through the hyperspectral datacube. 
+
+  - repository: libfrangi
+    title: "libfrangi"
+    license: BSD
+    img: libfrangi_ill.png
+    description: Vessel extraction library. 

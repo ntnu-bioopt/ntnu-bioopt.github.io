@@ -1,0 +1,67 @@
+/**
+ * Styling for software displaying
+ */
+
+
+/**
+ * Site header
+ */
+
+.pub-year{
+	border-bottom: 1px solid $grey-color-light;
+}
+
+/*publication ul list*/
+.pub-list {
+	list-style: none;
+	margin: 0;
+}
+
+/* publication item describing title, authors... */
+.pub-item {
+    overflow: hidden;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+    min-width: 325px;
+    list-style: none;
+    /*padding-left: 110px;*/
+	
+
+
+    	/* title of publication */
+	.pub-title{
+		font-size: 15pt;
+	}
+
+	/* authors */
+	.pub-authors{
+	}
+
+	/* details (journal, volume, year...) */
+	.pub-details{
+	}
+
+	/* external/internal links to relevant resources */
+	.pub-links{
+		ul{
+			margin: 0;
+			list-style: none;
+			li{
+				display: inline;
+				margin-right: 10px;
+			}
+		}
+	}
+
+	img{
+		float: left;
+		width: 150px;
+		border: 1px solid #000000;
+		margin-right: 10px;
+	}
+}
+
+
+

@@ -1,0 +1,13 @@
+# Site settings
+title: NTNU IET Biomedical Optics
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hyperspectral analysis tools for biomedical applications.
+  Developed by the Biomedical Optics group (part of the Nanoelectronics and Photonics group) at the Department of Electronics and Telecommunications, NTNU Norwegian University of Science and Technology.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ntnu-bioopt.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  ntnu-bioopt
+
+# Build settings
+markdown: kramdown

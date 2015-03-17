@@ -1,0 +1,5926 @@
+[
+{
+"year": null
+}
+,
+{
+"year": "2006",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093708"
+  },
+  {
+    "tittel": "Applicability of diffusion approximation in analysis of diffuse reflectance spectra from healthy human skin",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2044706",
+    "volum": "9032",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087668"
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093707"
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1094240"
+  },
+  {
+    "tittel": "Characterization of the bruise healing process using pulsed photothermal radiometry",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2032490",
+    "volum": "8801",
+    "person": [
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087657"
+  },
+  {
+    "tittel": "Et krafttak for kunnskap",
+    "ar": "2012",
+    "journal": "Aftenposten (morgenutg. : trykt utg.)",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Henjesand",
+        "fornavn": "Inge Jan"
+      },
+      {
+        "etternavn": "Stenseth",
+        "fornavn": "Nils Christian"
+      },
+      {
+        "etternavn": "Handeland",
+        "fornavn": "Terje"
+      },
+      {
+        "etternavn": "Hodne",
+        "fornavn": "Bjarne"
+      },
+      {
+        "etternavn": "Holden",
+        "fornavn": "Lars"
+      },
+      {
+        "etternavn": "Gabrielsen",
+        "fornavn": "Roy Helge"
+      },
+      {
+        "etternavn": "Kantardjiev",
+        "fornavn": "Kim"
+      },
+      {
+        "etternavn": "Leirvaag",
+        "fornavn": "John"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haaland",
+        "fornavn": "Jan Ingvald Meidell"
+      }
+    ],
+    "id": "920192"
+  },
+  {
+    "tittel": "Intercomparison of EMCCD- and sCMOS-based imaging spectrometers for biomedical applications in low-light conditions",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909680",
+    "volum": "8215",
+    "person": [
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "973440"
+  },
+  {
+    "tittel": "Hyperspectral Imaging of Bruises in the SWIR Spectral Region",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909137",
+    "volum": "8207",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      }
+    ],
+    "id": "948078"
+  },
+  {
+    "tittel": "Tissue responses to hexyl 5-aminolevulinate-induced photodynamic treatment in syngeneic orthotopic rat bladder cancer model: possible pathways of action",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3536536",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      }
+    ],
+    "id": "835813"
+  },
+  {
+    "tittel": "Hyperspectral imaging of atherosclerotic plaques in vitro",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3540657",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Olstad",
+        "fornavn": "Elisabeth"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "839048"
+  },
+  {
+    "tittel": "UV Doses and Skin Effects during Psoriasis Climate Therapy",
+    "ar": "2011",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.874067",
+    "volum": "7883",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "LILLEENG",
+        "fornavn": "LUDMILA ZOTOVA"
+      },
+      {
+        "etternavn": "Nilsen",
+        "fornavn": "Lill Tove"
+      },
+      {
+        "etternavn": "Polesie",
+        "fornavn": "Anne Lene Krogstad"
+      }
+    ],
+    "id": "847982"
+  },
+  {
+    "tittel": "Re-oxygenation of post-mortem lividity by passive diffusion through the skin at low temperature",
+    "ar": "2011",
+    "journal": "Forensic Science, Medicine, and Pathology",
+    "doi": "10.1007/s12024-011-9244-7",
+    "volum": "7",
+    "person": [
+      {
+        "etternavn": "Watchman",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Walker",
+        "fornavn": "G.S."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      }
+    ],
+    "id": "887568"
+  },
+  {
+    "tittel": "Characterization of vascular structures and skin bruises using hyperspectral imaging, image analysis and diffusion theory",
+    "ar": "2010",
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.200910059",
+    "volum": "3",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "348705"
+  },
+  {
+    "tittel": "Hyperspectral Characterization of Atherosclerotic Plaques",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.831624",
+    "volum": "7368",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "840745"
+  },
+  {
+    "tittel": "Hyperspectral imaging of blood perfusion and chromophore distribution in skin",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.810027",
+    "volum": "7161",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "840747"
+  },
+  {
+    "tittel": "Monitoring of Hexyl 5-aminolevulinate Induced Photodynamic Therapy in Rat Bladder Cancer by Optical Spectroscopy",
+    "ar": "2008",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.2967909",
+    "volum": "13",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "362299"
+  },
+  {
+    "tittel": "Application of image processing techniques for enhancement and segmentation of bruises in hyperspectral images",
+    "ar": "2008",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Gundersen",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Rasmussen",
+        "fornavn": "BF"
+      },
+      {
+        "etternavn": "Bru",
+        "fornavn": "J"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "505546"
+  },
+  {
+    "tittel": "Optical characterization of bruises in children",
+    "ar": "2007",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Aalders",
+        "fornavn": "M"
+      },
+      {
+        "etternavn": "Winnem",
+        "fornavn": "Andreas Meyer"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "van Gemert",
+        "fornavn": "MJC"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "506180"
+  },
+  {
+    "tittel": "Skin changes following minor trauma",
+    "ar": "2007",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": "10.1002/lsm.20494",
+    "volum": "39",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Winnem",
+        "fornavn": "Andreas Meyer"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Haaverstad",
+        "fornavn": "Rune"
+      },
+      {
+        "etternavn": "Skallerud",
+        "fornavn": "Bjørn Helge"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "369627"
+  },
+  {
+    "tittel": "Monitoring of hALA induced PDT in rat bladder cancer by optical spectroscopy",
+    "ar": "2006",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Hjelme",
+        "fornavn": "Dag Roar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "506927"
+  },
+  {
+    "tittel": "A novel approach to age determination of traumatic injuries by reflectance spectroscopy",
+    "ar": "2006",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": "38",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Haaverstad",
+        "fornavn": "Rune"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "391729"
+  },
+  {
+    "tittel": "Changes in skin properties following minor trauma",
+    "ar": "2006",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Winnem",
+        "fornavn": "Andreas Meyer"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "N"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Lilledahl",
+        "fornavn": "Magnus Borstad"
+      },
+      {
+        "etternavn": "Haaverstad",
+        "fornavn": "Rune"
+      },
+      {
+        "etternavn": "Mårvik",
+        "fornavn": "Ronald"
+      },
+      {
+        "etternavn": "Skallerud",
+        "fornavn": "Bjørn Helge"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "506942"
+  }
+]
+}
+,
+{
+"year": "2007",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093708"
+  },
+  {
+    "tittel": "Applicability of diffusion approximation in analysis of diffuse reflectance spectra from healthy human skin",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2044706",
+    "volum": "9032",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087668"
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093707"
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1094240"
+  },
+  {
+    "tittel": "Characterization of the bruise healing process using pulsed photothermal radiometry",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2032490",
+    "volum": "8801",
+    "person": [
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087657"
+  },
+  {
+    "tittel": "Et krafttak for kunnskap",
+    "ar": "2012",
+    "journal": "Aftenposten (morgenutg. : trykt utg.)",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Henjesand",
+        "fornavn": "Inge Jan"
+      },
+      {
+        "etternavn": "Stenseth",
+        "fornavn": "Nils Christian"
+      },
+      {
+        "etternavn": "Handeland",
+        "fornavn": "Terje"
+      },
+      {
+        "etternavn": "Hodne",
+        "fornavn": "Bjarne"
+      },
+      {
+        "etternavn": "Holden",
+        "fornavn": "Lars"
+      },
+      {
+        "etternavn": "Gabrielsen",
+        "fornavn": "Roy Helge"
+      },
+      {
+        "etternavn": "Kantardjiev",
+        "fornavn": "Kim"
+      },
+      {
+        "etternavn": "Leirvaag",
+        "fornavn": "John"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haaland",
+        "fornavn": "Jan Ingvald Meidell"
+      }
+    ],
+    "id": "920192"
+  },
+  {
+    "tittel": "Intercomparison of EMCCD- and sCMOS-based imaging spectrometers for biomedical applications in low-light conditions",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909680",
+    "volum": "8215",
+    "person": [
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "973440"
+  },
+  {
+    "tittel": "Hyperspectral Imaging of Bruises in the SWIR Spectral Region",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909137",
+    "volum": "8207",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      }
+    ],
+    "id": "948078"
+  },
+  {
+    "tittel": "Tissue responses to hexyl 5-aminolevulinate-induced photodynamic treatment in syngeneic orthotopic rat bladder cancer model: possible pathways of action",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3536536",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      }
+    ],
+    "id": "835813"
+  },
+  {
+    "tittel": "Hyperspectral imaging of atherosclerotic plaques in vitro",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3540657",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Olstad",
+        "fornavn": "Elisabeth"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "839048"
+  },
+  {
+    "tittel": "UV Doses and Skin Effects during Psoriasis Climate Therapy",
+    "ar": "2011",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.874067",
+    "volum": "7883",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "LILLEENG",
+        "fornavn": "LUDMILA ZOTOVA"
+      },
+      {
+        "etternavn": "Nilsen",
+        "fornavn": "Lill Tove"
+      },
+      {
+        "etternavn": "Polesie",
+        "fornavn": "Anne Lene Krogstad"
+      }
+    ],
+    "id": "847982"
+  },
+  {
+    "tittel": "Re-oxygenation of post-mortem lividity by passive diffusion through the skin at low temperature",
+    "ar": "2011",
+    "journal": "Forensic Science, Medicine, and Pathology",
+    "doi": "10.1007/s12024-011-9244-7",
+    "volum": "7",
+    "person": [
+      {
+        "etternavn": "Watchman",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Walker",
+        "fornavn": "G.S."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      }
+    ],
+    "id": "887568"
+  },
+  {
+    "tittel": "Characterization of vascular structures and skin bruises using hyperspectral imaging, image analysis and diffusion theory",
+    "ar": "2010",
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.200910059",
+    "volum": "3",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "348705"
+  },
+  {
+    "tittel": "Hyperspectral Characterization of Atherosclerotic Plaques",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.831624",
+    "volum": "7368",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "840745"
+  },
+  {
+    "tittel": "Hyperspectral imaging of blood perfusion and chromophore distribution in skin",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.810027",
+    "volum": "7161",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "840747"
+  },
+  {
+    "tittel": "Monitoring of Hexyl 5-aminolevulinate Induced Photodynamic Therapy in Rat Bladder Cancer by Optical Spectroscopy",
+    "ar": "2008",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.2967909",
+    "volum": "13",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "362299"
+  },
+  {
+    "tittel": "Application of image processing techniques for enhancement and segmentation of bruises in hyperspectral images",
+    "ar": "2008",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Gundersen",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Rasmussen",
+        "fornavn": "BF"
+      },
+      {
+        "etternavn": "Bru",
+        "fornavn": "J"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "505546"
+  },
+  {
+    "tittel": "Optical characterization of bruises in children",
+    "ar": "2007",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Aalders",
+        "fornavn": "M"
+      },
+      {
+        "etternavn": "Winnem",
+        "fornavn": "Andreas Meyer"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "van Gemert",
+        "fornavn": "MJC"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "506180"
+  },
+  {
+    "tittel": "Skin changes following minor trauma",
+    "ar": "2007",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": "10.1002/lsm.20494",
+    "volum": "39",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Winnem",
+        "fornavn": "Andreas Meyer"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Haaverstad",
+        "fornavn": "Rune"
+      },
+      {
+        "etternavn": "Skallerud",
+        "fornavn": "Bjørn Helge"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "369627"
+  }
+]
+}
+,
+{
+"year": "2008",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093708"
+  },
+  {
+    "tittel": "Applicability of diffusion approximation in analysis of diffuse reflectance spectra from healthy human skin",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2044706",
+    "volum": "9032",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087668"
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093707"
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1094240"
+  },
+  {
+    "tittel": "Characterization of the bruise healing process using pulsed photothermal radiometry",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2032490",
+    "volum": "8801",
+    "person": [
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087657"
+  },
+  {
+    "tittel": "Et krafttak for kunnskap",
+    "ar": "2012",
+    "journal": "Aftenposten (morgenutg. : trykt utg.)",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Henjesand",
+        "fornavn": "Inge Jan"
+      },
+      {
+        "etternavn": "Stenseth",
+        "fornavn": "Nils Christian"
+      },
+      {
+        "etternavn": "Handeland",
+        "fornavn": "Terje"
+      },
+      {
+        "etternavn": "Hodne",
+        "fornavn": "Bjarne"
+      },
+      {
+        "etternavn": "Holden",
+        "fornavn": "Lars"
+      },
+      {
+        "etternavn": "Gabrielsen",
+        "fornavn": "Roy Helge"
+      },
+      {
+        "etternavn": "Kantardjiev",
+        "fornavn": "Kim"
+      },
+      {
+        "etternavn": "Leirvaag",
+        "fornavn": "John"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haaland",
+        "fornavn": "Jan Ingvald Meidell"
+      }
+    ],
+    "id": "920192"
+  },
+  {
+    "tittel": "Intercomparison of EMCCD- and sCMOS-based imaging spectrometers for biomedical applications in low-light conditions",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909680",
+    "volum": "8215",
+    "person": [
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "973440"
+  },
+  {
+    "tittel": "Hyperspectral Imaging of Bruises in the SWIR Spectral Region",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909137",
+    "volum": "8207",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      }
+    ],
+    "id": "948078"
+  },
+  {
+    "tittel": "Tissue responses to hexyl 5-aminolevulinate-induced photodynamic treatment in syngeneic orthotopic rat bladder cancer model: possible pathways of action",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3536536",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      }
+    ],
+    "id": "835813"
+  },
+  {
+    "tittel": "Hyperspectral imaging of atherosclerotic plaques in vitro",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3540657",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Olstad",
+        "fornavn": "Elisabeth"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "839048"
+  },
+  {
+    "tittel": "UV Doses and Skin Effects during Psoriasis Climate Therapy",
+    "ar": "2011",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.874067",
+    "volum": "7883",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "LILLEENG",
+        "fornavn": "LUDMILA ZOTOVA"
+      },
+      {
+        "etternavn": "Nilsen",
+        "fornavn": "Lill Tove"
+      },
+      {
+        "etternavn": "Polesie",
+        "fornavn": "Anne Lene Krogstad"
+      }
+    ],
+    "id": "847982"
+  },
+  {
+    "tittel": "Re-oxygenation of post-mortem lividity by passive diffusion through the skin at low temperature",
+    "ar": "2011",
+    "journal": "Forensic Science, Medicine, and Pathology",
+    "doi": "10.1007/s12024-011-9244-7",
+    "volum": "7",
+    "person": [
+      {
+        "etternavn": "Watchman",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Walker",
+        "fornavn": "G.S."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      }
+    ],
+    "id": "887568"
+  },
+  {
+    "tittel": "Characterization of vascular structures and skin bruises using hyperspectral imaging, image analysis and diffusion theory",
+    "ar": "2010",
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.200910059",
+    "volum": "3",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "348705"
+  },
+  {
+    "tittel": "Hyperspectral Characterization of Atherosclerotic Plaques",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.831624",
+    "volum": "7368",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "840745"
+  },
+  {
+    "tittel": "Hyperspectral imaging of blood perfusion and chromophore distribution in skin",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.810027",
+    "volum": "7161",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "840747"
+  },
+  {
+    "tittel": "Monitoring of Hexyl 5-aminolevulinate Induced Photodynamic Therapy in Rat Bladder Cancer by Optical Spectroscopy",
+    "ar": "2008",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.2967909",
+    "volum": "13",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "362299"
+  },
+  {
+    "tittel": "Application of image processing techniques for enhancement and segmentation of bruises in hyperspectral images",
+    "ar": "2008",
+    "journal": "Lasers in Surgery and Medicine",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Gundersen",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Rasmussen",
+        "fornavn": "BF"
+      },
+      {
+        "etternavn": "Bru",
+        "fornavn": "J"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "505546"
+  }
+]
+}
+,
+{
+"year": "2009",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093708"
+  },
+  {
+    "tittel": "Applicability of diffusion approximation in analysis of diffuse reflectance spectra from healthy human skin",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2044706",
+    "volum": "9032",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087668"
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093707"
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1094240"
+  },
+  {
+    "tittel": "Characterization of the bruise healing process using pulsed photothermal radiometry",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2032490",
+    "volum": "8801",
+    "person": [
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087657"
+  },
+  {
+    "tittel": "Et krafttak for kunnskap",
+    "ar": "2012",
+    "journal": "Aftenposten (morgenutg. : trykt utg.)",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Henjesand",
+        "fornavn": "Inge Jan"
+      },
+      {
+        "etternavn": "Stenseth",
+        "fornavn": "Nils Christian"
+      },
+      {
+        "etternavn": "Handeland",
+        "fornavn": "Terje"
+      },
+      {
+        "etternavn": "Hodne",
+        "fornavn": "Bjarne"
+      },
+      {
+        "etternavn": "Holden",
+        "fornavn": "Lars"
+      },
+      {
+        "etternavn": "Gabrielsen",
+        "fornavn": "Roy Helge"
+      },
+      {
+        "etternavn": "Kantardjiev",
+        "fornavn": "Kim"
+      },
+      {
+        "etternavn": "Leirvaag",
+        "fornavn": "John"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haaland",
+        "fornavn": "Jan Ingvald Meidell"
+      }
+    ],
+    "id": "920192"
+  },
+  {
+    "tittel": "Intercomparison of EMCCD- and sCMOS-based imaging spectrometers for biomedical applications in low-light conditions",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909680",
+    "volum": "8215",
+    "person": [
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "973440"
+  },
+  {
+    "tittel": "Hyperspectral Imaging of Bruises in the SWIR Spectral Region",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909137",
+    "volum": "8207",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      }
+    ],
+    "id": "948078"
+  },
+  {
+    "tittel": "Tissue responses to hexyl 5-aminolevulinate-induced photodynamic treatment in syngeneic orthotopic rat bladder cancer model: possible pathways of action",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3536536",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      }
+    ],
+    "id": "835813"
+  },
+  {
+    "tittel": "Hyperspectral imaging of atherosclerotic plaques in vitro",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3540657",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Olstad",
+        "fornavn": "Elisabeth"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "839048"
+  },
+  {
+    "tittel": "UV Doses and Skin Effects during Psoriasis Climate Therapy",
+    "ar": "2011",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.874067",
+    "volum": "7883",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "LILLEENG",
+        "fornavn": "LUDMILA ZOTOVA"
+      },
+      {
+        "etternavn": "Nilsen",
+        "fornavn": "Lill Tove"
+      },
+      {
+        "etternavn": "Polesie",
+        "fornavn": "Anne Lene Krogstad"
+      }
+    ],
+    "id": "847982"
+  },
+  {
+    "tittel": "Re-oxygenation of post-mortem lividity by passive diffusion through the skin at low temperature",
+    "ar": "2011",
+    "journal": "Forensic Science, Medicine, and Pathology",
+    "doi": "10.1007/s12024-011-9244-7",
+    "volum": "7",
+    "person": [
+      {
+        "etternavn": "Watchman",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Walker",
+        "fornavn": "G.S."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      }
+    ],
+    "id": "887568"
+  },
+  {
+    "tittel": "Characterization of vascular structures and skin bruises using hyperspectral imaging, image analysis and diffusion theory",
+    "ar": "2010",
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.200910059",
+    "volum": "3",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "348705"
+  },
+  {
+    "tittel": "Hyperspectral Characterization of Atherosclerotic Plaques",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.831624",
+    "volum": "7368",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "840745"
+  },
+  {
+    "tittel": "Hyperspectral imaging of blood perfusion and chromophore distribution in skin",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.810027",
+    "volum": "7161",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "840747"
+  }
+]
+}
+,
+{
+"year": "2010",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093708"
+  },
+  {
+    "tittel": "Applicability of diffusion approximation in analysis of diffuse reflectance spectra from healthy human skin",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2044706",
+    "volum": "9032",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087668"
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093707"
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1094240"
+  },
+  {
+    "tittel": "Characterization of the bruise healing process using pulsed photothermal radiometry",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2032490",
+    "volum": "8801",
+    "person": [
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087657"
+  },
+  {
+    "tittel": "Et krafttak for kunnskap",
+    "ar": "2012",
+    "journal": "Aftenposten (morgenutg. : trykt utg.)",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Henjesand",
+        "fornavn": "Inge Jan"
+      },
+      {
+        "etternavn": "Stenseth",
+        "fornavn": "Nils Christian"
+      },
+      {
+        "etternavn": "Handeland",
+        "fornavn": "Terje"
+      },
+      {
+        "etternavn": "Hodne",
+        "fornavn": "Bjarne"
+      },
+      {
+        "etternavn": "Holden",
+        "fornavn": "Lars"
+      },
+      {
+        "etternavn": "Gabrielsen",
+        "fornavn": "Roy Helge"
+      },
+      {
+        "etternavn": "Kantardjiev",
+        "fornavn": "Kim"
+      },
+      {
+        "etternavn": "Leirvaag",
+        "fornavn": "John"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haaland",
+        "fornavn": "Jan Ingvald Meidell"
+      }
+    ],
+    "id": "920192"
+  },
+  {
+    "tittel": "Intercomparison of EMCCD- and sCMOS-based imaging spectrometers for biomedical applications in low-light conditions",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909680",
+    "volum": "8215",
+    "person": [
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "973440"
+  },
+  {
+    "tittel": "Hyperspectral Imaging of Bruises in the SWIR Spectral Region",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909137",
+    "volum": "8207",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      }
+    ],
+    "id": "948078"
+  },
+  {
+    "tittel": "Tissue responses to hexyl 5-aminolevulinate-induced photodynamic treatment in syngeneic orthotopic rat bladder cancer model: possible pathways of action",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3536536",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      }
+    ],
+    "id": "835813"
+  },
+  {
+    "tittel": "Hyperspectral imaging of atherosclerotic plaques in vitro",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3540657",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Olstad",
+        "fornavn": "Elisabeth"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "839048"
+  },
+  {
+    "tittel": "UV Doses and Skin Effects during Psoriasis Climate Therapy",
+    "ar": "2011",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.874067",
+    "volum": "7883",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "LILLEENG",
+        "fornavn": "LUDMILA ZOTOVA"
+      },
+      {
+        "etternavn": "Nilsen",
+        "fornavn": "Lill Tove"
+      },
+      {
+        "etternavn": "Polesie",
+        "fornavn": "Anne Lene Krogstad"
+      }
+    ],
+    "id": "847982"
+  },
+  {
+    "tittel": "Re-oxygenation of post-mortem lividity by passive diffusion through the skin at low temperature",
+    "ar": "2011",
+    "journal": "Forensic Science, Medicine, and Pathology",
+    "doi": "10.1007/s12024-011-9244-7",
+    "volum": "7",
+    "person": [
+      {
+        "etternavn": "Watchman",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Walker",
+        "fornavn": "G.S."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      }
+    ],
+    "id": "887568"
+  },
+  {
+    "tittel": "Characterization of vascular structures and skin bruises using hyperspectral imaging, image analysis and diffusion theory",
+    "ar": "2010",
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.200910059",
+    "volum": "3",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "348705"
+  }
+]
+}
+,
+{
+"year": "2011",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093708"
+  },
+  {
+    "tittel": "Applicability of diffusion approximation in analysis of diffuse reflectance spectra from healthy human skin",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2044706",
+    "volum": "9032",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087668"
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093707"
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1094240"
+  },
+  {
+    "tittel": "Characterization of the bruise healing process using pulsed photothermal radiometry",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2032490",
+    "volum": "8801",
+    "person": [
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087657"
+  },
+  {
+    "tittel": "Et krafttak for kunnskap",
+    "ar": "2012",
+    "journal": "Aftenposten (morgenutg. : trykt utg.)",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Henjesand",
+        "fornavn": "Inge Jan"
+      },
+      {
+        "etternavn": "Stenseth",
+        "fornavn": "Nils Christian"
+      },
+      {
+        "etternavn": "Handeland",
+        "fornavn": "Terje"
+      },
+      {
+        "etternavn": "Hodne",
+        "fornavn": "Bjarne"
+      },
+      {
+        "etternavn": "Holden",
+        "fornavn": "Lars"
+      },
+      {
+        "etternavn": "Gabrielsen",
+        "fornavn": "Roy Helge"
+      },
+      {
+        "etternavn": "Kantardjiev",
+        "fornavn": "Kim"
+      },
+      {
+        "etternavn": "Leirvaag",
+        "fornavn": "John"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haaland",
+        "fornavn": "Jan Ingvald Meidell"
+      }
+    ],
+    "id": "920192"
+  },
+  {
+    "tittel": "Intercomparison of EMCCD- and sCMOS-based imaging spectrometers for biomedical applications in low-light conditions",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909680",
+    "volum": "8215",
+    "person": [
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "973440"
+  },
+  {
+    "tittel": "Hyperspectral Imaging of Bruises in the SWIR Spectral Region",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909137",
+    "volum": "8207",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      }
+    ],
+    "id": "948078"
+  },
+  {
+    "tittel": "Tissue responses to hexyl 5-aminolevulinate-induced photodynamic treatment in syngeneic orthotopic rat bladder cancer model: possible pathways of action",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3536536",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Arum",
+        "fornavn": "Carl-Jørgen"
+      },
+      {
+        "etternavn": "Gederaas",
+        "fornavn": "Odrun Arna"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hjelde",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Krokan",
+        "fornavn": "Hans Einar"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      },
+      {
+        "etternavn": "Chen",
+        "fornavn": "Duan"
+      },
+      {
+        "etternavn": "Zhao",
+        "fornavn": "Chun-Mei"
+      }
+    ],
+    "id": "835813"
+  },
+  {
+    "tittel": "Hyperspectral imaging of atherosclerotic plaques in vitro",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3540657",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Olstad",
+        "fornavn": "Elisabeth"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "id": "839048"
+  },
+  {
+    "tittel": "UV Doses and Skin Effects during Psoriasis Climate Therapy",
+    "ar": "2011",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.874067",
+    "volum": "7883",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "LILLEENG",
+        "fornavn": "LUDMILA ZOTOVA"
+      },
+      {
+        "etternavn": "Nilsen",
+        "fornavn": "Lill Tove"
+      },
+      {
+        "etternavn": "Polesie",
+        "fornavn": "Anne Lene Krogstad"
+      }
+    ],
+    "id": "847982"
+  },
+  {
+    "tittel": "Re-oxygenation of post-mortem lividity by passive diffusion through the skin at low temperature",
+    "ar": "2011",
+    "journal": "Forensic Science, Medicine, and Pathology",
+    "doi": "10.1007/s12024-011-9244-7",
+    "volum": "7",
+    "person": [
+      {
+        "etternavn": "Watchman",
+        "fornavn": "H"
+      },
+      {
+        "etternavn": "Walker",
+        "fornavn": "G.S."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Langlois",
+        "fornavn": "NE"
+      }
+    ],
+    "id": "887568"
+  }
+]
+}
+,
+{
+"year": "2012",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093708"
+  },
+  {
+    "tittel": "Applicability of diffusion approximation in analysis of diffuse reflectance spectra from healthy human skin",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2044706",
+    "volum": "9032",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087668"
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093707"
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1094240"
+  },
+  {
+    "tittel": "Characterization of the bruise healing process using pulsed photothermal radiometry",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2032490",
+    "volum": "8801",
+    "person": [
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087657"
+  },
+  {
+    "tittel": "Et krafttak for kunnskap",
+    "ar": "2012",
+    "journal": "Aftenposten (morgenutg. : trykt utg.)",
+    "doi": null,
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Henjesand",
+        "fornavn": "Inge Jan"
+      },
+      {
+        "etternavn": "Stenseth",
+        "fornavn": "Nils Christian"
+      },
+      {
+        "etternavn": "Handeland",
+        "fornavn": "Terje"
+      },
+      {
+        "etternavn": "Hodne",
+        "fornavn": "Bjarne"
+      },
+      {
+        "etternavn": "Holden",
+        "fornavn": "Lars"
+      },
+      {
+        "etternavn": "Gabrielsen",
+        "fornavn": "Roy Helge"
+      },
+      {
+        "etternavn": "Kantardjiev",
+        "fornavn": "Kim"
+      },
+      {
+        "etternavn": "Leirvaag",
+        "fornavn": "John"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Haaland",
+        "fornavn": "Jan Ingvald Meidell"
+      }
+    ],
+    "id": "920192"
+  },
+  {
+    "tittel": "Intercomparison of EMCCD- and sCMOS-based imaging spectrometers for biomedical applications in low-light conditions",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909680",
+    "volum": "8215",
+    "person": [
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "973440"
+  },
+  {
+    "tittel": "Hyperspectral Imaging of Bruises in the SWIR Spectral Region",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909137",
+    "volum": "8207",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      }
+    ],
+    "id": "948078"
+  }
+]
+}
+,
+{
+"year": "2013",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  },
+  {
+    "tittel": "Hyperspectral imaging as a diagnostic tool for chronic skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001087",
+    "volum": "8565",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093708"
+  },
+  {
+    "tittel": "Applicability of diffusion approximation in analysis of diffuse reflectance spectra from healthy human skin",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2044706",
+    "volum": "9032",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087668"
+  },
+  {
+    "tittel": "A combined 3D and hyperspectral method for surface imaging of wounds",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2001248",
+    "volum": "8578",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Røren",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1093707"
+  },
+  {
+    "tittel": "Combined hyperspectral and 3D characterization of non-healing skin ulcers",
+    "ar": "2013",
+    "journal": "Proceedings of the IEEE",
+    "doi": "10.1109/CVCS.2013.6626271",
+    "volum": null,
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1094240"
+  },
+  {
+    "tittel": "Characterization of the bruise healing process using pulsed photothermal radiometry",
+    "ar": "2013",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2032490",
+    "volum": "8801",
+    "person": [
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1087657"
+  }
+]
+}
+,
+{
+"year": "2014",
+"publications":
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1216144"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136599"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1136604"
+  },
+  {
+    "tittel": "Modification of extracorporeal photopheresis technology with porphyrin precursors. Comparison between 8-methoxypsoralen and hexaminolevulinate in killing human T-cell lymphoma cell lines in vitro",
+    "ar": "2014",
+    "journal": "Biochimica et Biophysica Acta - General Subjects",
+    "doi": "10.1016/j.bbagen.2014.05.020",
+    "volum": "1840",
+    "person": [
+      {
+        "etternavn": "Cunderlikova",
+        "fornavn": "Beata"
+      },
+      {
+        "etternavn": "Vasovic",
+        "fornavn": "Vlada"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Christensen",
+        "fornavn": "Eidi"
+      },
+      {
+        "etternavn": "Warloe",
+        "fornavn": "Trond"
+      },
+      {
+        "etternavn": "Nesland",
+        "fornavn": "Jahn M"
+      },
+      {
+        "etternavn": "Qian",
+        "fornavn": "Peng"
+      }
+    ],
+    "id": "1150483"
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1172977"
+  },
+  {
+    "tittel": "Simulation of light transport in arthritic- and non-arthritic human fingers",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035979",
+    "volum": "8936",
+    "person": [
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186802"
+  },
+  {
+    "tittel": "Combining the diffusion approximation and Monte Carlo modeling in analysis of diffuse reflectance spectra from human skin",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2035747",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Naglic",
+        "fornavn": "Peter"
+      },
+      {
+        "etternavn": "Vidovic",
+        "fornavn": "Luka"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Majaron",
+        "fornavn": "Boris"
+      }
+    ],
+    "id": "1186777"
+  },
+  {
+    "tittel": "Identification of inflammation sites in arthritic joints using hyperspectral imaging",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2040499",
+    "volum": "8947",
+    "person": [
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Grandaunet",
+        "fornavn": "Berit Helen"
+      },
+      {
+        "etternavn": "Dhainaut",
+        "fornavn": "Alvilde"
+      },
+      {
+        "etternavn": "Hoff",
+        "fornavn": "Mari"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "id": "1186540"
+  },
+  {
+    "tittel": "Hyperspectral characterization of an in vitro wound model",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.2039976",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Hegstad",
+        "fornavn": "Janne-Lise A"
+      },
+      {
+        "etternavn": "Paluchowski",
+        "fornavn": "Lukasz A."
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Pukstad",
+        "fornavn": "Brita"
+      }
+    ],
+    "id": "1200221"
+  },
+  {
+    "tittel": "Influence of crystal modification on the photoinduced color change in riboflavin",
+    "ar": "2014",
+    "journal": "Pharmazie",
+    "doi": "10.1691/ph.2014.3064",
+    "volum": "69",
+    "person": [
+      {
+        "etternavn": "Vukicevic",
+        "fornavn": "Milica"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Boschker",
+        "fornavn": "Jos Emiel"
+      },
+      {
+        "etternavn": "Tybell",
+        "fornavn": "Thomas"
+      },
+      {
+        "etternavn": "Tønnesen",
+        "fornavn": "Hanne Hjorth"
+      }
+    ],
+    "id": "1152985"
+  }
+]
+}
+]

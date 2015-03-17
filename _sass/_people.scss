@@ -1,0 +1,39 @@
+/**
+ * Styling for software displaying
+ */
+
+
+/**
+ * Site header
+ */
+.people-list-element {
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    min-height: 110px;
+    min-width: 325px;
+    float: left;
+
+    img {
+	    margin-right: 10px;
+	    width: 100px;
+	    float: left;
+    }
+
+    h2 {
+	    font-size: 15pt;
+	    margin: 0;
+    }
+
+    ul {
+	    list-style: none;
+	    margin: 0;
+    }
+
+
+}
+
+
+

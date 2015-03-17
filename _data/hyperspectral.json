@@ -1,0 +1,106 @@
+[
+  {
+    "tittel": "Intercomparison of EMCCD- and sCMOS-based imaging spectrometers for biomedical applications in low-light conditions",
+    "ar": "2012",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.909680",
+    "volum": "8215",
+    "person": [
+      {
+        "etternavn": "Hernandez-Palacios",
+        "fornavn": "Julio"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Hyperspectral imaging of atherosclerotic plaques in vitro",
+    "ar": "2011",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.3540657",
+    "volum": "16",
+    "person": [
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Olstad",
+        "fornavn": "Elisabeth"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Hyperspectral Characterization of Atherosclerotic Plaques",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.831624",
+    "volum": "7368",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Aksnes",
+        "fornavn": "Astrid"
+      },
+      {
+        "etternavn": "Haugen",
+        "fornavn": "Olav Anton"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Hyperspectral imaging of blood perfusion and chromophore distribution in skin",
+    "ar": "2009",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "10.1117/12.810027",
+    "volum": "7161",
+    "person": [
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      },
+      {
+        "etternavn": "Larsen",
+        "fornavn": "Eivind La Puebla"
+      },
+      {
+        "etternavn": "Svaasand",
+        "fornavn": "Lars O."
+      }
+    ],
+    "github": null
+  }
+]

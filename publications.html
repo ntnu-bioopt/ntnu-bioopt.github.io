@@ -1,0 +1,64 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+<p>
+For a full list of publications, see <a href="https://scholar.google.com/citations?user=cUnZ1gsAAAAJ">Google Scholar</a>.</p> 
+
+{% for year in site.data.publications %}
+	{% if year.year %}
+		<h2 class="pub-year">{{ year.year }}</h2>
+		<ul class="pub-list">
+		{% for publication in year.publications %}
+			<li class="pub-item" id="{{ publication.id }}">
+				{% if publication.img %}
+				<img src="{{ site.url }}/assets/publications/{{ publication.img }}">
+				{% endif %}
+					<div class="pub-title">
+				{% if publication.doi %}
+					<a href="http://doi.org/{{ publication.doi }}">{{ publication.tittel }}</a>
+				{% else %}
+					{{ publication.tittel }}
+				{% endif %}
+				</div>
+				<div class="pub-authors">
+				{% for forfatter in publication.person %}
+					{{ forfatter.fornavn }} {{forfatter.etternavn }}; 
+				{% endfor %}
+				</div>
+				<div class="pub-details">
+					{% if publication.journal %}
+					<em>{{ publication.journal }}</em>, vol. {{ publication.volum }} 
+					{% elsif publication.serie %}
+					In <em>{{ publication.serie }}, {{ publication.book }}</em>
+					{% elsif publication.publisher %}
+					In <em>{{ publication.book }}</em>, {{ publication.publisher }}
+					{% else %}
+					In <em>{{ publication.book }}</em>
+					{% endif %}
+					 ({{ publication.ar }}).
+				</div>
+				{% if publication.suppl or publication.github or publication.software %}
+				<div class="pub-links">
+					<ul>
+						{% if publication.suppl %}
+						<li><a href="{{ publication.suppl }}">{{ publication.suppltitle }}</a></li>
+						{% endif %}
+						{% if publication.github %}
+						<li><a href="{{ publication.github }}">Github</a></li>
+						{% endif %}
+						{% if publication.software %}
+						<li><a href="{{ site.url }}/{{ publication.software }}">Software</a></li>
+						{% endif %}
+
+					</ul>
+
+				</div>
+				{% endif %}
+				</li>
+		{% endfor %}
+		</ul>
+	{% endif %}
+{% endfor %}

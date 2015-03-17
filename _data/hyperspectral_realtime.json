@@ -1,0 +1,86 @@
+[
+  {
+    "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
+    "ar": "2015",
+    "journal": "Sensors",
+    "doi": "10.3390/s150203362",
+    "volum": "15",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": "mnf"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1117/1.JBO.19.6.066003",
+    "volum": "19",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": "gpudm"
+  },
+  {
+    "tittel": "Estimation of skin optical parameters for real-time hyperspectral imaging applications",
+    "ar": "2014",
+    "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+    "doi": "doi:10.1117/12.2037827",
+    "volum": "8926",
+    "person": [
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": null
+  },
+  {
+    "tittel": "Wavelet based feature extraction and visualization in hyperspectral tissue characterization",
+    "ar": "2014",
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.5.004260",
+    "volum": "5",
+    "person": [
+      {
+        "etternavn": "Denstedt",
+        "fornavn": "Martin Anders Fredrik"
+      },
+      {
+        "etternavn": "Bjorgan",
+        "fornavn": "Asgeir"
+      },
+      {
+        "etternavn": "Milanic",
+        "fornavn": "Matija"
+      },
+      {
+        "etternavn": "Randeberg",
+        "fornavn": "Lise Lyngsnes"
+      }
+    ],
+    "github": null
+  }
+]

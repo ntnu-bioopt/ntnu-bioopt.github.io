@@ -1,0 +1,21 @@
+---
+layout: page
+title: Software
+permalink: /software/
+---
+
+Software for hyperspectral analysis. See also <a href="http://github.com/ntnu-bioopt">github site</a>. 
+
+
+{% for repo in site.data.repositories %}
+	<div class="software-list-element">
+			{% if repo.img %}
+			<img src="{{ repo.img }}">
+			{% endif %}
+			<h2><a href="{{ repo.repository }}.html">{{ repo.title }}</a></h2>
+			<ul>
+				<li> {{ repo.description }}</li>
+				<li> License: {{ repo.license }}</li>
+			</ul>
+	</div>
+{% endfor %}	

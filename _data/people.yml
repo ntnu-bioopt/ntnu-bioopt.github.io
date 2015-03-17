@@ -1,0 +1,24 @@
+   - name: Lise Lyngsnes Randeberg
+     img: lise.jpg
+     title: Professor
+     github: https://github.com/liselr
+     ntnu: http://www.ntnu.edu/employees/lise.randeberg
+
+   - name: Matija Milanic
+     title: Post.doc
+     img: matija.jpg
+     ntnu: http://www.ntnu.edu/employees/matija.milanic
+
+   - name: Lukasz Paluchowski
+     title: PhD-student
+     img: lukasz.jpg
+     ntnu: http://www.ntnu.edu/employees/lucas.paluchowski
+   
+   - name: Martin Denstedt
+     title: PhD-student
+     ntnu: http://www.ntnu.edu/employees/martin.denstedt
+
+   - name: Asgeir Bjorgan
+     title: Researcher
+     img: asgeir.jpg
+     ntnu: http://www.ntnu.edu/employees/asgeir.bjorgan
