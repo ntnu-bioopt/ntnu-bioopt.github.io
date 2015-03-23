@@ -19,6 +19,8 @@ For a full list of publications, see <a href="https://scholar.google.com/citatio
 					<div class="pub-title">
 				{% if publication.doi %}
 					<a href="http://doi.org/{{ publication.doi }}">{{ publication.tittel }}</a>
+				{% elsif publication.doi_bokrapport %}
+					<a href="http://doi.org/{{ publication.doi_bokrapport }}">{{ publication.tittel }}</a>
 				{% else %}
 					{{ publication.tittel }}
 				{% endif %}
