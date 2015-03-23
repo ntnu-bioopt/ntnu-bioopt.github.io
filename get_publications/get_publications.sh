@@ -52,7 +52,7 @@ for year in $years; do
 
 	#strip unecessary values
 	JSON_TEMP="temp.json"
-	cat $JSON_COMB | ./jq '[.forskningsresultat[] | {tittel: .fellesdata.tittel, ar: .fellesdata.ar, journal: .kategoridata.tidsskriftsartikkel.tidsskrift.navn, book: .kategoridata.bokRapportDel.delAv.forskningsresultat.fellesdata.tittel, serie: .fellesdata.rapportdata.publikasjonskanal.serie.navn, publisher: .fellesdata.rapportdata.publikasjonskanal.forlag.navn, doi: .kategoridata.tidsskriftsartikkel.doi, volum: .kategoridata.tidsskriftsartikkel.volum, person: .fellesdata.person, id: .fellesdata.id, suppl: .fellesdata.id, suppltitle: .fellesdata.id, software: .fellesdata.id, github: .fellesdata.id, img: .fellesdata.id} | del(.person[].tilhorighet, .person[].harFodselsnummer, .person[].rekkefolgenr, .person[].id)]'  > $JSON_TEMP
+	cat $JSON_COMB | ./jq '[.forskningsresultat[] | {tittel: .fellesdata.tittel, ar: .fellesdata.ar, journal: .kategoridata.tidsskriftsartikkel.tidsskrift.navn, book: .kategoridata.bokRapportDel.delAv.forskningsresultat.fellesdata.tittel, serie: .fellesdata.rapportdata.publikasjonskanal.serie.navn, publisher: .fellesdata.rapportdata.publikasjonskanal.forlag.navn, doi: .kategoridata.tidsskriftsartikkel.doi, doi_bokrapport: .kategoridata.bokRapportDel.doi, volum: .kategoridata.tidsskriftsartikkel.volum, person: .fellesdata.person, id: .fellesdata.id, suppl: .fellesdata.id, suppltitle: .fellesdata.id, software: .fellesdata.id, github: .fellesdata.id, img: .fellesdata.id} | del(.person[].tilhorighet, .person[].harFodselsnummer, .person[].rekkefolgenr, .person[].id)]'  > $JSON_TEMP
 
 	#filter away non-desired papers
 	JSON_TEMP_2="temp2.json"
