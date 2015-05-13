@@ -22,8 +22,7 @@ The group has two hyperspectral cameras, <a href="http://www.hyspex.no/products/
 <p>
 Applications include 
 characterization of the <a href="{{ site.url}}/publications/#1093707">wound healing process</a>, <a href="{{ site.url }}/publications/#1186802">detection
-of arthritis</a>, <a href="{{ site.url }}/publications/#348705">characterization of bruises</a>, detection of cholesterol, characterization of the burn healing
-process (see <a href="{{ site.url }}/publications">list of publications</a> for more).
+of arthritis</a>, <a href="{{ site.url }}/publications/#348705">characterization of bruises</a> (see <a href="{{ site.url }}/publications">list of publications</a> for more).
 </p>
 
 <p>Applicability of these techniques in the clinic requires
