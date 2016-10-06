@@ -22,7 +22,7 @@ function remove_publications(){
 JSON_FILENAME="publications.json"
 JSON_STRIPPED="publications_stripped.json"
 
-years="2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004"
+years="2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004"
 echo "[" > $JSON_STRIPPED
 echo "{" >> $JSON_STRIPPED
 echo "\"year\": null" >> $JSON_STRIPPED
