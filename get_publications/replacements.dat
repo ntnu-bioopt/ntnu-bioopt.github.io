@@ -3,6 +3,7 @@ s/"github": "1136599"/"github": "http:\/\/github.com\/ntnu-bioopt\/gpudm"/g
 s/"github": "[0-9]+"/"github": null/g
 s/"software": "1216144"/"software": "software\/mnf.html"/g
 s/"software": "1136599"/"software": "software\/gpudm.html"/g
+s/"software": "1281539"/"software": "software\/realtime"/g
 s/"software": "[0-9]+"/"software": null/g
 s/"suppl": "1136599"/"suppl": "https:\/\/github.com\/ntnu-bioopt\/gpudm\/blob\/master\/technicalreport.pdf?raw=true"/g
 s/"suppl": "[0-9]+"/"suppl": null/g
