@@ -3,18 +3,136 @@
     "year": null
   },
   {
+    "year": "2016",
+    "publications": [
+      {
+        "tittel": "Spectral-spatial classification combined with diffusion theory based inverse modeling of hyperspectral images",
+        "ar": "2016",
+        "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+        "book": null,
+        "serie": "Proceedings of SPIE, the International Society for Optical Engineering",
+        "publisher": null,
+        "doi": "10.1117/12.2212163",
+        "doi_bokrapport": null,
+        "volum": "9689",
+        "person": [
+          {
+            "etternavn": "Paluchowski",
+            "fornavn": "Lukasz A."
+          },
+          {
+            "etternavn": "Bjorgan",
+            "fornavn": "Asgeir"
+          },
+          {
+            "etternavn": "Nordgaard",
+            "fornavn": "Håvard B."
+          },
+          {
+            "etternavn": "Randeberg",
+            "fornavn": "Lise Lyngsnes"
+          }
+        ],
+        "id": "1343210",
+        "suppl": null,
+        "suppltitle": null,
+        "software": null,
+        "github": null,
+        "img": null
+      },
+      {
+        "tittel": "Towards automated sorting of Atlantic cod (Gadus morhua) roe, milt, and liver - Spectral characterization and classification using visible and near-infrared hyperspectral imaging",
+        "ar": "2016",
+        "journal": "Food Control",
+        "book": null,
+        "serie": null,
+        "publisher": null,
+        "doi": "10.1016/j.foodcont.2015.11.004",
+        "doi_bokrapport": null,
+        "volum": "62",
+        "person": [
+          {
+            "etternavn": "Paluchowski",
+            "fornavn": "Lukasz A."
+          },
+          {
+            "etternavn": "Misimi",
+            "fornavn": "Ekrem"
+          },
+          {
+            "etternavn": "Grimsmo",
+            "fornavn": "Leif"
+          },
+          {
+            "etternavn": "Randeberg",
+            "fornavn": "Lise Lyngsnes"
+          }
+        ],
+        "id": "1324923",
+        "suppl": null,
+        "suppltitle": null,
+        "software": null,
+        "github": null,
+        "img": null
+      },
+      {
+        "tittel": "Can spectral-spatial image segmentation be used to discriminate experimental burn wounds?",
+        "ar": "2016",
+        "journal": "Journal of Biomedical Optics",
+        "book": null,
+        "serie": "Journal of Biomedical Optics",
+        "publisher": null,
+        "doi": "10.1117/1.JBO.21.10.101413",
+        "doi_bokrapport": null,
+        "volum": "21:101413",
+        "person": [
+          {
+            "etternavn": "Paluchowski",
+            "fornavn": "Lukasz A."
+          },
+          {
+            "etternavn": "Nordgaard",
+            "fornavn": "Håvard B."
+          },
+          {
+            "etternavn": "Bjorgan",
+            "fornavn": "Asgeir"
+          },
+          {
+            "etternavn": "Hov",
+            "fornavn": "Håkon"
+          },
+          {
+            "etternavn": "Berget",
+            "fornavn": "Sissel Marie"
+          },
+          {
+            "etternavn": "Randeberg",
+            "fornavn": "Lise Lyngsnes"
+          }
+        ],
+        "id": "1359654",
+        "suppl": null,
+        "suppltitle": null,
+        "software": null,
+        "github": null,
+        "img": null
+      }
+    ]
+  },
+  {
     "year": "2015",
     "publications": [
       {
         "tittel": "Vessel contrast enhancement in hyperspectral images",
         "ar": "2015",
-        "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+        "journal": "Progress in Biomedical Optics and Imaging",
         "book": null,
-        "serie": "Proceedings of SPIE, the International Society for Optical Engineering",
+        "serie": "Progress in Biomedical Optics and Imaging",
         "publisher": null,
-        "doi": "doi:10.1117/12.2075703",
+        "doi": "10.1117/12.2075703",
         "doi_bokrapport": null,
-        "volum": "9318",
+        "volum": "9318:93180G",
         "person": [
           {
             "etternavn": "Bjorgan",
@@ -37,12 +155,12 @@
             "fornavn": "Lise Lyngsnes"
           }
         ],
-        "id": "1231735",
+        "id": "1257481",
         "suppl": null,
         "suppltitle": null,
         "software": null,
         "github": null,
-        "img": "1231735.png"
+        "img": "1257481.png"
       },
       {
         "tittel": "Real-time noise removal for line-scanning hyperspectral devices using a minimum noise fraction-based approach",
@@ -72,15 +190,42 @@
         "img": "1216144.png"
       },
       {
+        "tittel": "Towards real-time medical diagnostics using hyperspectral imaging technology",
+        "ar": "2015",
+        "journal": "Progress in Biomedical Optics and Imaging",
+        "book": null,
+        "serie": "Progress in Biomedical Optics and Imaging",
+        "publisher": null,
+        "doi": "10.1117/12.2184155",
+        "doi_bokrapport": null,
+        "volum": "9537",
+        "person": [
+          {
+            "etternavn": "Bjorgan",
+            "fornavn": "Asgeir"
+          },
+          {
+            "etternavn": "Randeberg",
+            "fornavn": "Lise Lyngsnes"
+          }
+        ],
+        "id": "1281539",
+        "suppl": null,
+        "suppltitle": null,
+        "software": null,
+        "github": null,
+        "img": null
+      },
+      {
         "tittel": "Hyperspectral imaging for detection of cholesterol in human skin",
         "ar": "2015",
-        "journal": "Proceedings of SPIE, the International Society for Optical Engineering",
+        "journal": "Progress in Biomedical Optics and Imaging",
         "book": null,
-        "serie": "Proceedings of SPIE, the International Society for Optical Engineering",
+        "serie": "Progress in Biomedical Optics and Imaging",
         "publisher": null,
-        "doi": "doi:10.1117/12.2076796",
+        "doi": "10.1117/12.2076796",
         "doi_bokrapport": null,
-        "volum": "9332",
+        "volum": "93320",
         "person": [
           {
             "etternavn": "Milanic",
@@ -108,6 +253,76 @@
           }
         ],
         "id": "1231747",
+        "suppl": null,
+        "suppltitle": null,
+        "software": null,
+        "github": null,
+        "img": null
+      },
+      {
+        "tittel": "Detection of hypercholesterolemia using hyperspectral imaging of human skin",
+        "ar": "2015",
+        "journal": "Progress in Biomedical Optics and Imaging",
+        "book": null,
+        "serie": "Progress in Biomedical Optics and Imaging",
+        "publisher": null,
+        "doi": "10.1117/12.2183880",
+        "doi_bokrapport": null,
+        "volum": "9537",
+        "person": [
+          {
+            "etternavn": "Milanic",
+            "fornavn": "Matija"
+          },
+          {
+            "etternavn": "Bjorgan",
+            "fornavn": "Asgeir"
+          },
+          {
+            "etternavn": "Larsson",
+            "fornavn": "Marcus"
+          },
+          {
+            "etternavn": "Strömberg",
+            "fornavn": "Tomas"
+          },
+          {
+            "etternavn": "Randeberg",
+            "fornavn": "Lise Lyngsnes"
+          }
+        ],
+        "id": "1283011",
+        "suppl": null,
+        "suppltitle": null,
+        "software": null,
+        "github": null,
+        "img": null
+      },
+      {
+        "tittel": "Hyperspectral imaging for detection of arthritis: Feasibility and prospects",
+        "ar": "2015",
+        "journal": "Journal of Biomedical Optics",
+        "book": null,
+        "serie": "Journal of Biomedical Optics",
+        "publisher": null,
+        "doi": "10.1117/1.JBO.20.9.096011",
+        "doi_bokrapport": null,
+        "volum": "20",
+        "person": [
+          {
+            "etternavn": "Milanic",
+            "fornavn": "Matija"
+          },
+          {
+            "etternavn": "Paluchowski",
+            "fornavn": "Lukasz A."
+          },
+          {
+            "etternavn": "Randeberg",
+            "fornavn": "Lise Lyngsnes"
+          }
+        ],
+        "id": "1290362",
         "suppl": null,
         "suppltitle": null,
         "software": null,

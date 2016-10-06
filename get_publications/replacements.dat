@@ -11,5 +11,5 @@ s/"suppltitle": "[0-9]+"/"suppltitle": null/g
 s/"img": "1136599"/"img": "1136599.png"/g
 s/"img": "1216144"/"img": "1216144.png"/g
 s/"img": "1172977"/"img": "1172977.png"/g
-s/"img": "1231735"/"img": "1231735.png"/g
+s/"img": "1257481"/"img": "1257481.png"/g
 s/"img": "[0-9]+"/"img": null/g
